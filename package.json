@@ -1,0 +1,20 @@
+{
+  "name": "motosalon-vibecoding-19sites",
+  "version": "1.0.0",
+  "description": "Публичная версия демо-сайтов мотосалонов: исходники шаблона, сборщики и демонстрационные страницы. CRM и рабочие материалы исключены.",
+  "scripts": {
+    "build": "node scripts/build-reference.js",
+    "build:reference": "node scripts/build-reference.js",
+    "serve": "node scripts/serve.js",
+    "dev": "node scripts/serve.js"
+  },
+  "keywords": [
+    "vibecoding",
+    "motosalon",
+    "claude-code",
+    "multi-agent",
+    "automation"
+  ],
+  "author": "",
+  "license": "ISC"
+}
